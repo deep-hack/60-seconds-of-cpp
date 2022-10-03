@@ -2,11 +2,11 @@
 
 # 60 seconds of code
 
-> Short C++ code snippets for all your development needs
+> Short C++ code for snippets for all your development needs
 
 
 * You can use the button at the bottom of a snippet card to copy the code to clipboard.
-* If you like the project, give it a star. It means a lot to the people maintaining it.
+* If you like the project, give it a star *. It means a lot to the people maintaining it.
 
 ## Want to contribute?
 
